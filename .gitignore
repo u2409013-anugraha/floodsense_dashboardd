@@ -1,0 +1,13 @@
+*.SAFE/
+before_flood_kochi.tif
+during_flood_kochi.tif
+before_flood_alappuzha.tif
+during_flood_alappuzha.tif
+dem_merged.tif
+n09_e076_1arc_v3.tif
+n10_e076_1arc_v3.tif
+subset_0_of_during_flood_VV.tif
+subset_1_of_S1_beforeaug9_filtered_Terrain_corrected.tif
+high_risk_buildings.geojson
+upload/
+.DS_Store
