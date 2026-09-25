@@ -11,3 +11,4 @@ subset_1_of_S1_beforeaug9_filtered_Terrain_corrected.tif
 high_risk_buildings.geojson
 upload/
 .DS_Store
+__pycache__/

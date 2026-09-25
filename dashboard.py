@@ -146,9 +146,6 @@ show_risk = st.sidebar.checkbox("Show Risk Zones", value=True)
 show_buildings = st.sidebar.checkbox("Show High-Risk Buildings", value=False)
 if show_buildings:
     st.sidebar.caption(":warning: Rendering 50k+ building shapes can be slow.")
-st.sidebar.markdown("---")
-st.sidebar.markdown("**Team:** Anugraha, Bettina, Ganga, Lanet")
-st.sidebar.markdown("**Guide:** Ms. Veena Rani")
 
 st.title("FloodSense - Inundation Mapping & Prediction Dashboard")
 st.caption(f"{selected_district} District, Kerala | Sentinel-1 SAR flood detection (Aug 2018 flood event)")
